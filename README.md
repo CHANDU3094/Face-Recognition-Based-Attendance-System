@@ -51,7 +51,7 @@ The Face Recognition Based Slot Wise Attendance Marking System is a Python proje
 
     Student Name: Name of the recognized student.
     Registration Number: Unique identifier for the student.
-    Time: Time of attendance marked in 12-hour format.
+    Time: Time of attendance marked in 24-hour format.
     Date: Date when the attendance was marked.
     Time Slot: The specific time slot for which the attendance was recorded.
 
